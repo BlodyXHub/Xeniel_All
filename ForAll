@@ -7,7 +7,7 @@ local PlaceId = game.PlaceId
 if PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
 
     
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BlodyXHub/Xeniel_V/main/BloxFruitV3.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BlodyXHub/Xeniel_One/main/Update%201.txt"))()
 
 
 --Anime Adventures
